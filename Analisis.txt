@@ -1,0 +1,11 @@
+1. No se pueden matricular más de 24 horas diarias
+2. No se puede matricular más de una vez una materia el mismo para el mismo día.
+3. Un codigo responde solo a una materia, si se ingresa el codigo se muestra la misma materia.
+4. El formato en archivo de texto es: Código/Nombre materia/dia 1/dia 2/hora inicio/hora fin/HDP/HTP/NC
+5. El codigo ingresado debe estar registrado en la base de datos en un archivo txt.
+6. 3 opciones: resgistrar una materia, modificar horario, gestionar horas de estudio, salir.
+
+
+
+
+
