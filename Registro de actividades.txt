@@ -1,2 +1,5 @@
-martes 6-8 pm: descargar y analizar el pensum de la carrera de ingenieria de telecomunicaciones.
+martes: descargar y analizar el pensum de la carrera de ingenieria de telecomunicaciones.
+miercoles: Realizar analisis de limitaciones, opciones y formatos
+jueves: Crear el txt con códigos y materias
+viernes: crear estructura general del programa
  
